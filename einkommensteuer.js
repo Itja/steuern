@@ -13,7 +13,7 @@ let tarifeckwerte = { //Grund-freibetrag, Betrag Ende 1. lineare progr. Zone, Be
     "2019": [9168, 14254, 55960, 265326],
     "2020": [9408, 14532, 57051, 270500],
     "2021": [9744, 14753, 57918, 274612],
-    "2022": [10347,	14926, 58596, 277825]
+    "2022": [10347, 14926, 58596, 277825]
 }
 
 //Hebesätze wurden seit 2009 nicht geändert
