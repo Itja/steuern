@@ -72,7 +72,7 @@ function grenzsteuersatz_splitting(year, zve) {
 
 function test() {
   let year = 2020
-  let zve = -80000
+  let zve = 80000
   console.log('Einzelveranlagung: ', einkommensteuer(year, zve))
   console.log('Grenzsteuersatz Einzel: ', grenzsteuersatz(year, zve))
   console.log('Splitting: ', einkommensteuer_splitting(year, zve))
